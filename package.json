@@ -1,6 +1,5 @@
 {
   "name": "tic-tac-toe",
-<<<<<<< HEAD
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -32,14 +31,4 @@
       "last 1 safari version"
     ]
   }
-=======
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "Pedro Conde",
-  "license": "ISC"
->>>>>>> 1924d56c6692df638a281df011d8bde9959845fc
 }
